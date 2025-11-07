@@ -11,3 +11,9 @@ https://sqlserverbuilds.blogspot.com/2018/01/sql-server-management-studio-ssms.h
 
 Forum Shaiya
 https://www.elitepvpers.com/forum/shaiya
+
+PHP WEBSITE
+https://windows.php.net/downloads/releases/
+
+PHP Manager Source
+https://github.com/phpmanager/phpmanager/releases
